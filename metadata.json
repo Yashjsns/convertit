@@ -1,0 +1,6 @@
+{
+  "name": "ConvertIt",
+  "description": "Immersive document and image conversion suite with PDF splitting, Image to PDF, photo compression, OCR text extraction, and conversion history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
